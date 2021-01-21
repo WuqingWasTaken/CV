@@ -1,0 +1,22 @@
+
+  body {
+    background-color: #eaf6f6;
+    margin-left: 30%;
+    margin-right: 30%;
+  }
+  hr{
+    border-style: dotted;
+    border-width: 5px 0 0 0;
+    border-color: grey;
+    width: 90px;
+
+  }
+  h1
+  {
+    color: #1bbdc4;
+    text-decoration: underline;
+    font-style: italic;
+  }
+  h3{
+    color: #66bfbf;
+  }
